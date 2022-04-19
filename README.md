@@ -1,8 +1,4 @@
-# KsendzovCourses
-Homework
-
-HW_1. The first part
-Linux terminal (GitBash) commands
+# HW_1.Linux terminal (GitBash) commands
 
 1) Посмотреть где я
 <code> pwd </code>
