@@ -2,7 +2,6 @@
 
 
 const check_age = function (age_1){
-    age_1
     age_1 = Number(age_1)
     if (typeof(age_1) == 'number'){
         if (age_1 < 18) {
